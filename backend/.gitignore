@@ -1,3 +1,4 @@
 .env
 db.sqlite3
-.choreo/*
+.choreo/endpoints.yaml
+.choreo/link.yaml
